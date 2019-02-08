@@ -1,6 +1,6 @@
-# Tutorial Docker with NodeJS, MongoDB and koa [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+# Tutorial Docker with NodeJS, MongoDB and KoaJS [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-🔬 Create your first Docker container with NodeJS, MongoDB and koa
+🔬 Create your first Docker container with NodeJS, MongoDB and KoaJS
 
 ![Banner](src/banner.png)
 
