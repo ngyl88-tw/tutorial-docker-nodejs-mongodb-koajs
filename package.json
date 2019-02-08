@@ -1,0 +1,9 @@
+{
+  "name": "docker-nodejs-mongodb",
+  "version": "0.0.1",
+  "description": "Docker width NodeJS and MongoDB",
+  "author": "Jose J. Pérez Rivas <me@josejpr.com>",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
