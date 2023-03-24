@@ -1,6 +1,7 @@
 version: "2"
 services:
   app:
+    user: "503:20"
     container_name: app
     restart: always
     build: .
@@ -12,6 +13,7 @@ services:
     depends_on: 
       - mongo
   mongo:
+    user: "503:20"
     container_name: mongo
     image: mongo
     volumes:
